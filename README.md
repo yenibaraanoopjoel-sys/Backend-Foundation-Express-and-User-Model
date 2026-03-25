@@ -2,6 +2,21 @@
 
 A complete full-stack application featuring user authentication, post creation with image upload functionality, and Cloudinary integration for cloud storage.
 
+> 📚 **[View Complete Documentation Index](DOCUMENTATION_INDEX.md)** - Navigate all documentation files
+
+## 📖 Documentation
+
+This project includes comprehensive documentation:
+
+- **[SETUP.md](SETUP.md)** - Step-by-step installation guide
+- **[TESTING.md](TESTING.md)** - Comprehensive testing instructions
+- **[ARCHITECTURE.md](ARCHITECTURE.md)** - System architecture and design
+- **[WORKFLOW_DIAGRAM.md](WORKFLOW_DIAGRAM.md)** - Visual workflow diagrams
+- **[QUICK_REFERENCE.md](QUICK_REFERENCE.md)** - Quick commands and tips
+- **[CHECKLIST.md](CHECKLIST.md)** - Implementation checklist
+- **[PROJECT_SUMMARY.md](PROJECT_SUMMARY.md)** - Project completion summary
+- **[DOCUMENTATION_INDEX.md](DOCUMENTATION_INDEX.md)** - Complete documentation index
+
 ## 🚀 Features
 
 - **User Authentication**: Register, login, and JWT-based authentication
